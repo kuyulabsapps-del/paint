@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "royal_sun",
+      "name": "Royal Sun Mandala",
+      "url": "https://raw.githubusercontent.com/gaurawnegiji/Paint/main/assets/templates/mandalas/royal_sun.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/gaurawnegiji/Paint/main/assets/templates/mandalas/royal_sun_thumb.png"
+    },
+    {
+      "id": "mystic_forest",
+      "name": "Mystic Forest",
+      "url": "https://raw.githubusercontent.com/gaurawnegiji/Paint/main/assets/templates/mandalas/forest.png"
+    },
+    {
+      "id": "lotus_divine",
+      "name": "Lotus Divine",
+      "url": "https://raw.githubusercontent.com/gaurawnegiji/Paint/main/assets/templates/mandalas/lotus.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/gaurawnegiji/Paint/main/assets/templates/mandalas/lotus_thumb.png"
+    }
+  ]
+}
