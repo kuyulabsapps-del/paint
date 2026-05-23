@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "list": [
+    {
+      "promoUrl": "https://play.google.com/store/apps/details?id=com.kuyu.paint",
+      "defaultText": "Unleash your creativity with Paint Canvas Art & Mandala!",
+      "localizations": {
+        "en": "Unleash your creativity with Paint Canvas Art & Mandala!",
+        "ru": "Раскройте свой творческий потенциал с Paint Canvas Art & Mandala!",
+        "es": "¡Desata tu creatividad con Paint Canvas Art & Mandala!",
+        "pt": "Liberte sua criatividade com Paint Canvas Art & Mandala!",
+        "hi": "Paint Canvas Art & Mandala के साथ अपनी रचनात्मकता को उजागर करें!",
+        "fr": "Libérez votre créativité avec Paint Canvas Art & Mandala !"
+      }
+    },
+    {
+      "promoUrl": "https://play.google.com/store/apps/details?id=com.kuyu.subwise",
+      "defaultText": "Keep track of all your subscriptions and trials with Subwise!",
+      "localizations": {
+        "en": "Keep track of all your subscriptions and trials with Subwise!",
+        "ru": "Следите за всеми своими подписками и пробными периодами с Subwise!",
+        "es": "¡Lleva un seguimiento de tus suscripciones y pruebas con Subwise!",
+        "pt": "Monitore todas as suas assinaturas e testes com o Subwise!",
+        "hi": "Subwise के साथ अपनी सभी सदस्यताओं और परीक्षणों पर नज़र रखें!",
+        "fr": "Gérez tous vos abonnements et essais gratuits avec Subwise !"
+      }
+    },
+    {
+      "promoUrl": "https://play.google.com/store/apps/developer?id=KuyuLabs",
+      "defaultText": "Check out other awesome apps and games by KuyuLabs!",
+      "localizations": {
+        "en": "Check out other awesome apps and games by KuyuLabs!",
+        "ru": "Попробуйте другие отличные приложения и игры от KuyuLabs!",
+        "es": "¡Mira otras aplicaciones y juegos geniales de KuyuLabs!",
+        "pt": "Confira outros aplicativos e jogos incríveis da KuyuLabs!",
+        "hi": "KuyuLabs के अन्य शानदार ऐप्स और गेम देखें!",
+        "fr": "Découvrez les autres super applications et jeux de KuyuLabs !"
+      }
+    }
+  ]
+}
