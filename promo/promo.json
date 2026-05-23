@@ -2,18 +2,6 @@
   "version": 1,
   "list": [
     {
-      "promoUrl": "https://play.google.com/store/apps/details?id=com.kuyu.paint",
-      "defaultText": "Unleash your creativity with Paint Canvas Art & Mandala!",
-      "localizations": {
-        "en": "Unleash your creativity with Paint Canvas Art & Mandala!",
-        "ru": "Раскройте свой творческий потенциал с Paint Canvas Art & Mandala!",
-        "es": "¡Desata tu creatividad con Paint Canvas Art & Mandala!",
-        "pt": "Liberte sua criatividade com Paint Canvas Art & Mandala!",
-        "hi": "Paint Canvas Art & Mandala के साथ अपनी रचनात्मकता को उजागर करें!",
-        "fr": "Libérez votre créativité avec Paint Canvas Art & Mandala !"
-      }
-    },
-    {
       "promoUrl": "https://play.google.com/store/apps/details?id=com.kuyu.subwise",
       "defaultText": "Keep track of all your subscriptions and trials with Subwise!",
       "localizations": {
@@ -23,6 +11,18 @@
         "pt": "Monitore todas as suas assinaturas e testes com o Subwise!",
         "hi": "Subwise के साथ अपनी सभी सदस्यताओं और परीक्षणों पर नज़र रखें!",
         "fr": "Gérez tous vos abonnements et essais gratuits avec Subwise !"
+      }
+    },
+    {
+      "promoUrl": "https://play.google.com/store/apps/details?id=com.kuyu.minesweeper",
+      "defaultText": "Play the classic Minesweeper game with guess-free boards!",
+      "localizations": {
+        "en": "Play the classic Minesweeper game with guess-free boards!",
+        "ru": "Играйте в классический Сапер без догадок!",
+        "es": "¡Juega al clásico Buscaminas con tableros sin adivinanzas!",
+        "pt": "Jogue o clássico Campo Minado sem adivinhações!",
+        "hi": "बिना अनुमान वाले बोर्ड के साथ क्लासिक माइनस्वीपर खेलें!",
+        "fr": "Jouez au Démineur classique avec des grilles sans devinettes !"
       }
     },
     {
